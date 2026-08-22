@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nanticokeductcleaning.ca/sitemap-index.xml
