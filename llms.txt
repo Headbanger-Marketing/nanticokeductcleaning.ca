@@ -1,2 +1,25 @@
 # Nanticoke Duct Cleaning
-HVAC services in Ontario.
+
+> Nanticoke Duct Cleaning is a local HVAC company serving Nanticoke, Haldimand, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (519) 587-3164  |  Email: contact@nanticokeductcleaning.ca  |  Website: https://nanticokeductcleaning.ca
+
+## Key pages
+
+- [Home](https://nanticokeductcleaning.ca/): Nanticoke Duct Cleaning homepage with service overview and FAQ
+- [About](https://nanticokeductcleaning.ca/about/): About the company and service area
+- [Contact](https://nanticokeductcleaning.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Air Duct Cleaning](https://nanticokeductcleaning.ca/services/air-duct-cleaning/): Air Duct Cleaning in Nanticoke, Ontario
+- [Dryer Vent Cleaning](https://nanticokeductcleaning.ca/services/dryer-vent-cleaning/): Dryer Vent Cleaning in Nanticoke, Ontario
+- [Furnace & AC Cleaning](https://nanticokeductcleaning.ca/services/furnace-ac-cleaning/): Furnace & AC Cleaning in Nanticoke, Ontario
+- [HRV & Ventilation Cleaning](https://nanticokeductcleaning.ca/services/hrv-ventilation-cleaning/): HRV & Ventilation Cleaning in Nanticoke, Ontario
+- [Duct Sanitizing & Deodorizing](https://nanticokeductcleaning.ca/services/duct-sanitizing/): Duct Sanitizing & Deodorizing in Nanticoke, Ontario
+- [Duct Sealing & Repair](https://nanticokeductcleaning.ca/services/duct-sealing-repair/): Duct Sealing & Repair in Nanticoke, Ontario
+- [Commercial Duct Cleaning](https://nanticokeductcleaning.ca/services/commercial-duct-cleaning/): Commercial Duct Cleaning in Nanticoke, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Nanticoke are answered on the homepage.
